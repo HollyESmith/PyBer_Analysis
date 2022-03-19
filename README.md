@@ -26,7 +26,8 @@ A review of this data demonstrates several findings:
 
 Total fare by city type visualized:
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/97558998/159140805-7c2a90c7-aeb8-4464-8286-269682db9713.png">
+![image](https://user-images.githubusercontent.com/97558998/159141083-a2c43314-b02e-41d9-819b-f8a1a7385a3c.png)
+
 
 This visualization tells us:
 
